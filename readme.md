@@ -2,9 +2,8 @@
 
 > Hybrid computer vision pipeline for tomato leaf disease detection using **YOLOv8** and **MobileNetV2**.
 >
-> <p align="center">
-  <img src="assets/demo_camera.jpg" width="700">
-</p>
+<img width="372" height="457" alt="image" src="https://github.com/user-attachments/assets/421294ed-894a-4e59-b1c3-3d5bd0f6c3e6" />
+
 
 <p align="center">
   <img src="assets/demo_camera.jpg" width="700">
